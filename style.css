@@ -67,7 +67,7 @@ nav a:hover {
     max-width: 500px;
 }
 
-.efeito-txt-topo, .efeito-img-topo, .servico, .sobre, .confianca, .beneficios div {
+.efeito-txt-topo, .efeito-img-topo, .servico, .sobre, footer {
     visibility: hidden;
 }
 

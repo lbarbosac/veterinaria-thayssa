@@ -36,18 +36,9 @@ revelar.reveal('.sobre',
 
 // footer confianca
 
-revelar.reveal('.confianca',
+revelar.reveal('footer',
     {
             duration: 2000,
             distance: '90px',
-            delay: 250
-    })
-
-// footer beneficios
-
-revelar.reveal('.beneficios div',
-    {
-            duration: 2000,
-            distance: '90px',
-            delay: 250
+            delay: 500
     })
