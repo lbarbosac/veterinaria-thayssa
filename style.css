@@ -137,11 +137,13 @@ nav a:hover {
 .servico img {
     max-width: 50px;
     margin-bottom: 0.5rem;
+    transition: 0.5s;
 }
 
 .servico:hover {
     color: #237a23;
     cursor: pointer;
+    filter: brightness(0) saturate(100%) invert(34%) sepia(98%) saturate(659%) hue-rotate(70deg) brightness(92%) contrast(97%);
 }
 
 .servico:hover img {
